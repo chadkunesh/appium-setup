@@ -1,0 +1,7 @@
+
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ì¹¶ºØ,
+bsquid:S2259&"DA "NullPointerException" could be thrown; "driver" is nullable here.(¿ç»í8ì¹¶ºØ,
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(©ı¤ïøÿÿÿÿ8ûòÃØ,
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Ü“Ù8ì¹¶ºØ,
