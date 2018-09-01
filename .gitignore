@@ -1,3 +1,3 @@
-.idea
-out/
-automate-headers.iml
+*.idea
+out/production/AppiumSetup
+AppiumSetup.iml
